@@ -48,12 +48,11 @@ body {
    }
  }
 
-/* body {
-    font-family: "Open Sans", sans-serif;
-    background-image: url(../img/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
+body {
+    background-image: url(../img/providence.svg);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
 
 .breadcrumb {
     background-color: #61606346;
